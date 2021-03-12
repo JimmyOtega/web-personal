@@ -27,7 +27,7 @@
 }
 .regist{
     width: 95%;
-    background: #24303c;
+    background: #a1f7f7;
     border-radius: 5px;
     border: 1px solid 'colibri';
     font-size: 22px;
@@ -58,7 +58,7 @@
     cursor: pointer;
 }
 .boton_guar:hover{
-    color: #fff;
+   
     transform: scale(1.5);
     transition:color 2s ease-out;
 }
@@ -70,7 +70,7 @@
     cursor: pointer;
 }
 .boton_cerr:hover{
-    color: #fff;
+   
     transform: scale(1.5);
     transition:color 2s ease-out;
 }
